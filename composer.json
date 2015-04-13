@@ -1,0 +1,20 @@
+{
+    "name": "nikonyrh/hyphenator-php",
+    "description": "A PHP class to hyphenate English text",
+    "keywords": ["hyphenation", "php"],
+    "type": "library",
+    "license": "Apache 2",
+    "authors": [
+        {
+            "name": "Niko Nyrhilä"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NikoNyrh\\": "src/NikoNyrh"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}

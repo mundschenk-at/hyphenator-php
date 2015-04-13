@@ -1,0 +1,10 @@
+*
+!*/
+!.ht*
+!*.php
+!*.xml
+!*.md
+!*.json
+!*.conf
+!.gitignore
+vendor
